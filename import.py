@@ -1,0 +1,3 @@
+import String
+
+String.welcome()
