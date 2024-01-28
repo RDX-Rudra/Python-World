@@ -1,5 +1,6 @@
 import random
 
+# problem 1
 def deck():
     cardList = []
     for i in suits:
