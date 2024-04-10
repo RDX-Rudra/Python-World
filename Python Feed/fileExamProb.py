@@ -8,7 +8,7 @@ with open('Python Feed\QandA.txt', 'r') as file:
     for line in file:
         # Strip leading and trailing whitespace
         line = line.strip()
-        
+        print(line)
         # Check if the line starts with 'Q '
         if line.startswith('Q '):
             # Extract the question (excluding 'Q ')
