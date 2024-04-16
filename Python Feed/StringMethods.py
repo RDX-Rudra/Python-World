@@ -1,4 +1,4 @@
-a = "!!Ram!!! !!!"
+a = "  !!Ram!!! !!!   "
 print(len(a))
 print(a)
 print(a.upper())
