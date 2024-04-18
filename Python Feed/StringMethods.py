@@ -24,4 +24,3 @@ print(str2.isspace())
 print(str2.istitle())
 print(b.swapcase())
 print(b.title())
-
