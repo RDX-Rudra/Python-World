@@ -101,5 +101,6 @@
     "code-runner.executorMapByGlob": {
 
         "pom.xml": "cd $dir && mvn clean package"
-    }
+    },
+    "python.analysis.autoImportCompletions": true
 }
